@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071818841512",
+    "project_id": "chattt-appp-100e9",
+    "storage_bucket": "chattt-appp-100e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071818841512:android:cc52eb42f91f5a6027919d",
+        "android_client_info": {
+          "package_name": "com.example.chatt_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPh_Ue5Zh2Q7k8Yk75R1t0WCgCngjMDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071818841512:android:3bb2fd43169f6ea527919d",
+        "android_client_info": {
+          "package_name": "com.example.chattt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPh_Ue5Zh2Q7k8Yk75R1t0WCgCngjMDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
